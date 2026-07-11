@@ -1,4 +1,4 @@
-# TECH CHALLENGE 2 - PÓS TECH FIAP
+# TECH CHALLENGE 2 - PÓS TECH FIAP 📊
 
 > **Tech Challenge 2 - Data Analytics**
 > Universidade FIAP - 2026
@@ -11,9 +11,9 @@
 
 ---
 
-## Sobre o Projeto
+## 📌 Sobre o Projeto
 
-**Case: Classificando a Qualidade de Vinhos com Machine Learning**
+**🍷 Case: Classificando a Qualidade de Vinhos com Machine Learning**
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de classificar a qualidade de vinhos a partir de variáveis físico-químicas, como acidez, teor alcoólico, densidade, dióxido de enxofre, pH, sulfatos e outros atributos laboratoriais.
 
@@ -42,7 +42,7 @@ Construir um pipeline completo de análise e modelagem preditiva para:
 
 ---
 
-## Sobre o Dataset
+## 📈 Sobre o Dataset 
 
 O projeto utiliza o **Wine Quality Dataset**, disponível no Kaggle, contendo informações físico-químicas de vinhos e suas respectivas notas de qualidade.
 
@@ -60,7 +60,7 @@ A base contém uma amostra de vinhos tintos portugueses do tipo **Vinho Verde**,
 
 ---
 
-## Estrutura dos Dados
+## 🔎 Estrutura dos Dados
 
 | Coluna                 | Descrição                                                      |
 | ---------------------- | -------------------------------------------------------------- |
@@ -108,13 +108,13 @@ tech-challenge-2-wine-quality/
 
 ---
 
-## Como Reproduzir a Análise
+## 📥 Como Reproduzir a Análise
 
 ### 1. Baixar o dataset
 
 Baixe o dataset no Kaggle:
 
-[Wine Quality Dataset — Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+🔗 [Wine Quality Dataset — Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
 
 Após o download, extraia os arquivos CSV e salve-os na pasta `data/`.
 
@@ -250,7 +250,7 @@ Foram utilizadas métricas como:
 
 ---
 
-## Principais Resultados
+## 📊 Principais Resultados
 
 O projeto identificou que o dataset possui desbalanceamento de classes, com uma proporção menor de vinhos classificados como alta qualidade.
 
@@ -265,7 +265,7 @@ Dessa forma, a escolha do melhor modelo depende do objetivo de negócio:
 
 ---
 
-## Principais Insights
+## 📊 Principais Insights
 
 * Vinhos com maior teor alcoólico tendem a apresentar maior probabilidade de alta qualidade.
 * A acidez volátil elevada está negativamente relacionada à qualidade, pois pode indicar defeitos sensoriais.
@@ -294,7 +294,7 @@ Como próximos passos, recomenda-se:
 
 ---
 
-## Entregáveis
+## 📌 Entregáveis
 
 * Notebook completo, comentado e organizado;
 * Análise exploratória dos dados;
@@ -307,7 +307,7 @@ Como próximos passos, recomenda-se:
 
 ---
 
-## Tecnologias Utilizadas
+## 🧑‍💻 Tecnologias Utilizadas
 
 * Python;
 * Pandas;
@@ -319,7 +319,7 @@ Como próximos passos, recomenda-se:
 
 ---
 
-## Referências
+## 📚 Referências
 
 * Wine Quality Dataset — Kaggle.
 * Cortez, P.; Cerdeira, A.; Almeida, F.; Matos, T.; Reis, J. Modeling wine preferences by data mining from physicochemical properties.
@@ -328,7 +328,7 @@ Como próximos passos, recomenda-se:
 
 ---
 
-## Integrantes do Grupo
+## 👥 Integrantes do Grupo
 
 | Nome                             | RM     |
 | -------------------------------- | ------ |
