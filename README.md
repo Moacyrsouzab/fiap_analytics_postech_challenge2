@@ -92,7 +92,7 @@ tech-challenge-2-wine-quality/
 │   ├── winequality-white.csv
 │   └── winequality-combined.csv
 │
-├── notebook/
+├── notebooks/
 │   └── wine_quality_classification.ipynb
 │
 ├── results/
