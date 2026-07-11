@@ -82,7 +82,7 @@ A base contém uma amostra de vinhos tintos portugueses do tipo **Vinho Verde**,
 
 ## Arquivos do Projeto
 
-A estrutura recomendada do projeto é:
+O projeto segue a seguinte estrutura:
 
 ```text
 tech-challenge-2-wine-quality/
@@ -100,8 +100,13 @@ tech-challenge-2-wine-quality/
 │   ├── 02_distribuicoes_features.png
 │   ├── 03_boxplots_por_classe.png
 │   ├── 04_matriz_correlacao.png
-│   ├── 05_matrizes_confusao.png
-│   └── 06_curvas_roc.png
+│   ├── 05_comparacao_modelos_auc.png
+│   └── 06_matrizes_confusao.png
+│   └── 07_curvas_roc.png
+│   └── 08_features_importance.png
+│   └── 09_coeficientes_logistica.png
+|
+├── src/
 │
 └── README.md
 ```
