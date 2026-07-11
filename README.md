@@ -109,6 +109,8 @@ tech-challenge-2-wine-quality/
 ├── src/
 │
 └── README.md
+└── requirements.txt
+└── wine_quality_techchallenge2.pdf
 ```
 
 ---
