@@ -87,13 +87,10 @@ O projeto segue a seguinte estrutura:
 ```text
 tech-challenge-2-wine-quality/
 ├── data/
-│   ├── WineQT.csv
-│   ├── winequality-red.csv
-│   ├── winequality-white.csv
-│   └── winequality-combined.csv
+│   └── WineQT.csv
 │
 ├── notebooks/
-│   └── wine_quality_classification.ipynb
+│   └── Wine_Quality_Classif_TechChallenge2.ipynb
 │
 ├── results/
 │   ├── 01_distribuicao_target.png
@@ -101,16 +98,22 @@ tech-challenge-2-wine-quality/
 │   ├── 03_boxplots_por_classe.png
 │   ├── 04_matriz_correlacao.png
 │   ├── 05_comparacao_modelos_auc.png
-│   └── 06_matrizes_confusao.png
-│   └── 07_curvas_roc.png
-│   └── 08_features_importance.png
-│   └── 09_coeficientes_logistica.png
+│   ├── 06_matrizes_confusao.png
+│   ├── 07_curvas_roc.png
+│   ├── 08_features_importance.png
+│   ├── 09_coeficientes_logistica.png
+│   ├── 10_arvore_decisao.png
+│   ├── 11_fronteiras_decisao.png
+│   ├── 12_curva_precisao_recall.png
+│   ├── 13_shap_summary.png
+│   └── 14_shap_waterfall.png
 |
 ├── src/
 │
 └── README.md
 └── requirements.txt
-└── wine_quality_techchallenge2.pdf
+└── Apresentacao_TechChallenge2.pdf
+└── Relatorio_Executivo_TechChallenge_Fase 2.pdf
 ```
 
 ---
