@@ -115,7 +115,6 @@ tech-challenge-2-wine-quality/
 └── Apresentacao_TechChallenge2.pdf
 └── Relatorio_Executivo_TechChallenge_Fase 2.pdf
 └── Video_Apresentacao_Executiva.txt
-
 ```
 
 ---
