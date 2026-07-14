@@ -114,6 +114,8 @@ tech-challenge-2-wine-quality/
 └── requirements.txt
 └── Apresentacao_TechChallenge2.pdf
 └── Relatorio_Executivo_TechChallenge_Fase 2.pdf
+└── Video_Apresentacao_Executiva.txt
+
 ```
 
 ---
@@ -313,8 +315,8 @@ Como próximos passos, recomenda-se:
 * Avaliação com métricas de classificação;
 * Interpretação dos resultados;
 * Relatório executivo;
-* Apresentação final do Tech Challenge.
-
+* Apresentação final do Tech Challenge. [Link no YouTube](https://youtu.be/EZjwfVLmtfw)
+  
 ---
 
 ## 🧑‍💻 Tecnologias Utilizadas
